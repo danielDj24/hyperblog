@@ -4,7 +4,7 @@ background: #1e1f24;
     color: #333;
     text-align: left;
     font-family:Arial;
-    font-size: 16px;
+    font-size: 20px;
 }
 #cabecera
 {
@@ -13,7 +13,7 @@ background: #1e1f24;
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.sem 0 0.5em 2em;
+    padding: 0.5em 0 0.5em 2em;
 
 }
 
